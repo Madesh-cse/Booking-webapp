@@ -1,0 +1,58 @@
+
+.Carousel-Card{
+  width: 280px;
+  font-family: sans-serif;
+  box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+}   
+.Carousel-Card img{
+    width: 100%;
+    object-fit: cover;
+    height:245px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+.Card-Description{
+    padding-left:10px;
+}
+.Card-Description p{
+    color:gray;
+    margin-top: -10px;
+    font-size: 13px;
+}
+.Rating{
+    display: flex;
+    padding-left: 10px;
+}
+.Rating span{
+    /* border:1px solid blue; */
+    margin-top: -3px;
+}
+.Rating p{
+    margin-top: -3px;
+    padding-left: 10px;
+    color:gray;
+    font-size: 13px;
+}
+.Options{
+    display: flex;
+    padding-left: 10px;
+}
+.Options span{
+    margin-top: 15px;
+    margin-right: 10px;
+    padding: 5px;
+    /* border: 1px solid red; */
+    color: #0057b8;
+    background-color: #c0c0c03b;
+}
+hr{
+    color:#c0c0c03b;
+}
+.Options p:hover{
+
+    color:#0057b8;
+    cursor: pointer;
+}
+section{
+    margin-top: 40px;
+}

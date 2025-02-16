@@ -1,0 +1,72 @@
+.Trending{
+    max-width: 80%;
+    margin: 50px auto;
+}
+.Trending-img{
+    display: flex;
+    flex-direction: row;
+}
+.Trending-card{
+    position: relative;
+}
+.Trending-Place img{
+    position: absolute;
+    width:30px;
+    height:20px;
+    object-fit: cover;
+    top:35px;
+    left:130px
+}
+.Trending-Place{
+    position: absolute;
+    top:10px;
+    left:10px;
+    font-size: 25px;
+    color:#fff;
+    font-weight: 700;
+    display: flex;
+}
+.Other-Trending-Places img{
+    width:30px;
+    height:20px;
+    object-fit: cover;
+    margin-top: 25px;
+    margin-left: 10px;
+}
+.Other-Trending-Place{
+    position: absolute;
+    font-size: 20px;
+    color:#fff;
+    font-weight: 700;
+    margin: 20px 20px;
+    display: flex;
+}
+.Trending-img a{
+    width: 100%;
+    height:300px;
+    display: block;
+    margin-right: 30px;
+}
+.Trending-picture img{
+    width:100%;
+    height:300px;
+    object-fit: cover;
+    border-radius: 8px;
+}
+.Other-Trending-Places{
+    display: flex;
+    flex-direction: row;
+    margin-top: 20px;
+}
+.Other-Trending-Places a{
+    width: 100%;
+    height:200px;
+    display: block;
+    margin-right: 30px;
+}
+.Other-Trending-picture img {
+    width:100%;
+    height:300px;
+    object-fit: cover;
+    border-radius: 8px;
+}

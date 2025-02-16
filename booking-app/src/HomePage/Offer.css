@@ -1,0 +1,29 @@
+section
+{
+  max-width: 80%;
+  margin: 50px auto;
+}
+.offer-card{
+    max-width: 100%;
+    border:1px solid #c0c0c0;
+    display: flex;
+    justify-content: space-between;
+    border-radius: 8px;
+    padding-bottom: 10px;
+}
+.SaveBtn span{
+    border: 1px solid #0057b8;
+    padding: 8px 10px;
+    background-color: #0057b8;
+    color:#fff;
+    border-radius: 5px;
+    font-size: 15px;
+}
+.offer-Content{
+    padding-left: 15px;
+}
+.offer-img img{
+    width:120px;
+    height:auto;
+    margin: 15px 15px 0 0;
+}
