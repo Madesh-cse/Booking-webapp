@@ -57,3 +57,36 @@ export const IntrestedRoom = [
         Review:'1,221'
     },
 ]
+
+export const PropertyChollai = [
+    {
+        id:1,
+        img:'https://q-xx.bstatic.com/xdata/images/hotel/263x210/595550862.jpeg?k=3514aa4abb76a6d19df104cb307b78b841ac0676967f24f4b860d289d55d3964&o=',
+        name:'Hotels'
+    },
+    {
+        id:2,
+        img:'https://q-xx.bstatic.com/xdata/images/hotel/263x210/595548591.jpeg?k=01741bc3aef1a5233dd33794dda397083092c0215b153915f27ea489468e57a2&o=',
+        name:'Apartments'
+    },
+    {
+        id:3,
+        img:'https://q-xx.bstatic.com/xdata/images/hotel/263x210/595551044.jpeg?k=262826efe8e21a0868105c01bf7113ed94de28492ee370f4225f00d1de0c6c44&o=',
+        name:'Resorts'
+    },
+    {
+        id:4,
+        img:'https://q-xx.bstatic.com/xdata/images/hotel/263x210/620168315.jpeg?k=300d8d8059c8c5426ea81f65a30a7f93af09d377d4d8570bda1bd1f0c8f0767f&o=',
+        name:'Villas'
+    },
+    {
+        id:5,
+        img:'https://r-xx.bstatic.com/xdata/images/hotel/263x210/595549239.jpeg?k=ad5273675c516cc1efc6cba2039877297b7ad2b5b3f54002c55ea6ebfb8bf949&o=',
+        name:'Cabins'
+    },
+    {
+        id:6,
+        img:'https://q-xx.bstatic.com/xdata/images/hotel/263x210/595550000.jpeg?k=71eeb3e0996d7f734e57a6fa426c718749a36df768ca5d2fb1dc65fcd7483c1d&o=',
+        name:'Cottage'
+    },
+]
