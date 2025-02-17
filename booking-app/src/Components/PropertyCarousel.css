@@ -1,0 +1,13 @@
+.Chollai-Card{
+    width:280px;
+    height:auto;
+    /* border:1px solid red; */
+}
+.Chollai-Card img{
+    width: 100%;
+    border-radius: 8px;
+}
+.Chollai a{
+    text-decoration: none;
+    color:#000;
+}
